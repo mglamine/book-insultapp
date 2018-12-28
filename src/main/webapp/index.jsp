@@ -9,6 +9,7 @@
 </head>
 <body>
 <%
+out.println(new InsultGenerator().generateInsult());
 %>
 
 </body>
